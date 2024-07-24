@@ -1,0 +1,9 @@
+input:focus{
+  background-color: rgb(0, 0, 0);
+  color: rgb(240, 231, 231);
+}
+
+input{
+  background-color: rgb(0, 0, 0);
+  color: rgb(247, 231, 231);
+}
